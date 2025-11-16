@@ -9,17 +9,17 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **GNN-TEC-Network** is a novel Graph Neural Network framework for analyzing Translation Efficiency Covariation (TEC) networks. Unlike traditional threshold-based methods that suffer from arbitrary parameter selection and binary edge decisions, our approach uses attention-based learning to discover optimal gene relationships directly from data.
 
 ### Key Achievements
 
-- 🏆 **233% Better Clustering**: Silhouette score 0.8896 vs -0.6790 (traditional)
-- 🔬 **30.3M Predictions**: 3,064× more high-confidence gene interactions
-- 🎯 **Threshold-Free**: Eliminates arbitrary cutoff selection
-- 📊 **2 Biological Modules**: Clear functional interpretation vs 188 fragmented components
-- ⚡ **Scalable**: Processes 11,088 genes in 27 minutes
+- **233% Better Clustering**: Silhouette score 0.8896 vs -0.6790 (traditional)
+- **30.3M Predictions**: 3,064× more high-confidence gene interactions
+- **Threshold-Free**: Eliminates arbitrary cutoff selection
+- **2 Biological Modules**: Clear functional interpretation vs 188 fragmented components
+- **Scalable**: Processes 11,088 genes in 27 minutes
 
 ---
 
@@ -42,12 +42,12 @@
 
 ### Core Capabilities
 
-- **🧠 Graph Attention Networks**: Multi-head attention mechanism with 8 heads capturing diverse relationship types
-- **📈 Self-Supervised Learning**: No labeled data required - learns from network structure
-- **🔍 Continuous Similarity**: Provides similarity scores for all 123M gene pairs
-- **🎨 Functional Module Discovery**: Identifies biologically meaningful gene clusters
-- **🔮 Link Prediction**: Predicts missing interactions for experimental validation
-- **📊 Comprehensive Analysis**: Includes threshold sensitivity, RNA-TEC comparison, and topology analysis
+- **Graph Attention Networks**: Multi-head attention mechanism with 8 heads capturing diverse relationship types
+- **Self-Supervised Learning**: No labeled data required - learns from network structure
+- **Continuous Similarity**: Provides similarity scores for all 123M gene pairs
+- **Functional Module Discovery**: Identifies biologically meaningful gene clusters
+- **Link Prediction**: Predicts missing interactions for experimental validation
+- **Comprehensive Analysis**: Includes threshold sensitivity, RNA-TEC comparison, and topology analysis
 
 ### Methodological Advantages
 
@@ -383,12 +383,12 @@ We welcome contributions! Please see our contributing guidelines:
 
 ### Areas for Contribution
 
-- 🐛 Bug fixes and improvements
-- 📝 Documentation enhancements
-- 🧪 Additional experiments and analyses
-- 🎨 Visualization improvements
-- 🚀 Performance optimizations
-- 🔬 New biological applications
+- Bug fixes and improvements
+- Documentation enhancements
+- Additional experiments and analyses
+- Visualization improvements
+- Performance optimizations
+- New biological applications
 
 ### Code Style
 
@@ -475,20 +475,18 @@ copies or substantial portions of the Software.
 - 🔄 Web-based interface
 
 ### Version 2.0 (Future)
-- 🔮 Causal inference capabilities
-- 🔮 Transfer learning across datasets
-- 🔮 Clinical application modules
-- 🔮 Real-time prediction API
+- Causal inference capabilities
+- Transfer learning across datasets
+- Clinical application modules
+- Real-time prediction API
 
 ---
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@institution.edu  
-**Institution**: Your Institution  
-**Lab Website**: https://yourlab.edu  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: Aadil Rashid Bhat 
+**Email**: your.aadil.bhat@uok.edu.in  
+**Institution**: University of Kashmir  
 
 ---
 
