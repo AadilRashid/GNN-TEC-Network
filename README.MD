@@ -38,7 +38,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Capabilities
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
@@ -344,30 +344,7 @@ python run_remaining_notebooks.py --data your_network_data.h5
 
 ---
 
-## 📄 Citation
 
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@article{gnn-tec-network2024,
-  title={Graph Neural Networks for Translation Efficiency Covariation Network Analysis: 
-         A Paradigm Shift from Threshold-Based to Learning-Based Gene Regulatory Network Inference},
-  author={Your Name and Collaborators},
-  journal={Journal Name},
-  year={2024},
-  volume={XX},
-  pages={XXX-XXX},
-  doi={10.xxxx/xxxxxx}
-}
-```
-
-### Related Publications
-
-- Main manuscript: [GNN_TEC_Manuscript.md](../GNN_TEC_Manuscript.md)
-- Preprint: [bioRxiv link]
-- Supplementary materials: [supplemental/](supplemental/)
-
----
 
 ## 🤝 Contributing
 
@@ -425,7 +402,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Aadil Bhat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
