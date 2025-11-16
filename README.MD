@@ -73,7 +73,7 @@
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/GNN-TEC-Network.git
+git clone https://github.com/AadilRashid/GNN-TEC-Network.git
 cd GNN-TEC-Network
 ```
 
@@ -380,7 +380,7 @@ We welcome contributions! Please see our contributing guidelines:
 
 ### Reporting Issues
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/yourusername/GNN-TEC-Network/issues) with:
+Found a bug or have a feature request? Please [open an issue](https://github.com/AadilRashid/GNN-TEC-Network/issues) with:
 
 - Clear description of the problem
 - Steps to reproduce
@@ -390,9 +390,8 @@ Found a bug or have a feature request? Please [open an issue](https://github.com
 ### Getting Help
 
 - 📖 Check [documentation](RESULTS_README.md) first
-- 💬 Open a [discussion](https://github.com/yourusername/GNN-TEC-Network/discussions)
-- 📧 Contact: your.email@institution.edu
-
+- 💬 Open a [discussion](https://github.com/AadilRashid/GNN-TEC-Network/discussions)
+- 📧 Contact: aadil.bhat@uok.edu.in
 ---
 
 ## 📜 License
@@ -462,7 +461,7 @@ copies or substantial portions of the Software.
 ## 📞 Contact
 
 **Project Maintainer**: Aadil Rashid Bhat 
-**Email**: your.aadil.bhat@uok.edu.in  
+**Email**: aadil.bhat@uok.edu.in  
 **Institution**: University of Kashmir  
 
 ---
@@ -471,16 +470,16 @@ copies or substantial portions of the Software.
 
 If you find this project useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/GNN-TEC-Network&type=Date)](https://star-history.com/#yourusername/GNN-TEC-Network&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AadilRashid/GNN-TEC-Network&type=Date)](https://star-history.com/#AadilRashid/GNN-TEC-Network&Date)
 
 ---
 
 ## 📈 Usage Statistics
 
-![GitHub Downloads](https://img.shields.io/github/downloads/yourusername/GNN-TEC-Network/total)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/GNN-TEC-Network)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/GNN-TEC-Network)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/GNN-TEC-Network)
+![GitHub Downloads](https://img.shields.io/github/downloads/AadilRashid/GNN-TEC-Network/total)
+![GitHub Stars](https://img.shields.io/github/stars/AadilRashid/GNN-TEC-Network)
+![GitHub Forks](https://img.shields.io/github/forks/AadilRashid/GNN-TEC-Network)
+![GitHub Issues](https://img.shields.io/github/issues/AadilRashid/GNN-TEC-Network)
 
 ---
 
@@ -488,6 +487,6 @@ If you find this project useful, please consider giving it a star! ⭐
 
 **Made with ❤️ for the systems biology community**
 
-[Documentation](RESULTS_README.md) • [Issues](https://github.com/yourusername/GNN-TEC-Network/issues) • [Discussions](https://github.com/yourusername/GNN-TEC-Network/discussions)
+[Documentation](RESULTS_README.md) • [Issues](https://github.com/AadilRashid/GNN-TEC-Network/issues) • [Discussions](https://github.com/AadilRashid/GNN-TEC-Network/discussions)
 
 </div>
